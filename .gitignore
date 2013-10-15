@@ -1,0 +1,12 @@
+.DS_Store
+._.DS_Store
+/.idea
+.buildpath
+.project
+.settings/
+nbproject/
+.framework/
+protected/extensions/MaintenanceMode/views/index.php
+protected/config/_maintenance.php
+protected/config/_settings.php
+protected/yiic.php

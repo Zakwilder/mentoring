@@ -1,0 +1,14 @@
+<phpunit bootstrap="bootstrap-dev.php">
+
+    <testsuite name="Unit Tests">
+        <directory>.</directory>
+    </testsuite>
+
+    <filter>
+        <whitelist>
+            <directory suffix=".php"></directory>
+        </whitelist>
+    </filter>
+
+
+</phpunit>
